@@ -1,0 +1,10 @@
+footer{
+    background-color: black;
+    color: aliceblue;
+}
+
+.footer-sitemap{
+    display: block;
+    text-decoration: none;
+    color: aliceblue;
+}
